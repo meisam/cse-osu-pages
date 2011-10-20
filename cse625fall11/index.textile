@@ -14,25 +14,11 @@ Columbus, OH 43210
 
 *E-mail:* fathi-salmi [dot] 1 [at] osu [dot] edu
 
-h2. Homework #1
+h2. Homework
 
-*Question 1* has 5 points.
-*Question 2* has 15 points (5 points for each part). 
-*Question 3* has 5 points. Not that you won't get any points unless you provide a counterexample that shows sometimes |A||B| is not equal to |AB|.
-*Question 4* has 15 points (5 points for each part).
-*Question 5* has 25 points (5 points for each part)
-*Question 6* has 25 points (5 point for each part)
-*Question 7* has 10 points. Note that many students used induction to prove this, yet as far as I remember none of them applied induction currectly.
+You can find more information about each homework the breakdown into points and distribution of scores for each homework below. Note that para maters that 
 
-h2. Homework #2
-
-*Question 1* has 4 points.
-*Question 2* has 12 points (4 points each part).
-*Question 3* has 36 points (4 points each part).
-*Question 4* has 16 points (4 points each part).
-*Question 5* has 32 points.
-Parts 'a', 'b' and 'c' each has 4 points.
-Part 'd' has 8 points (4 points for each subpart).
-Part 'e' has 12 points. If your answer to this part is merely TRUE/FALSE or if your answer is "FALSE" but the counterexample that you provide can be rewritten with sh = 1, you will get 0 points. If your answer is "False" and you provide a counterexample and you claim that the counter example is not equivalent to any sh=1 expression but you do not prove your claim, you will get 4 points.You will get 8 point if you provide a counterexample and prove that your example cannot be rewritten with sh = 1, but your prove is not complete or is fallacious "subtly". Finally, you will get 12 points if you provide a counterexample and prove that your example cannot be re-written with sh = 1.
-
-
+|_.                      |_. MIN |_. MAX |_. AVERAGE |
+| "Homework #1":hw1.html |=. 0   |=. 100 |=.  49.6   |
+| "Homework #2":hw2.html |=. 0   |=. 96  |=.  47.2   |
+| "Homework #3":hw3.html |=.     |=.     |=.         |
