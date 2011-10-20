@@ -1,0 +1,15 @@
+---
+layout: course-ta
+title: CSE 625 (Fall 2011), Homework 2
+---
+h2. Homework #2
+
+The average for the 9:30 session is 46.4 and for the 10:30 session is 48.0.
+*Question 1* has 4 points.
+*Question 2* has 12 points (4 points each part).
+*Question 3* has 36 points (4 points each part).
+*Question 4* has 16 points (4 points each part).
+*Question 5* has 32 points.
+Parts 'a', 'b' and 'c' each has 4 points.
+Part 'd' has 8 points (4 points for each sub-part).
+Part 'e' has 12 points. If your answer to this part is merely TRUE/FALSE or if your answer is "FALSE" but the counterexample that you provide can be rewritten with sh = 1, you will get 0 points. If your answer is "False" and you provide a counterexample and you claim that the counter example is not equivalent to any sh=1 expression but you do not prove your claim, you will get 4 points.You will get 8 point if you provide a counterexample and prove that your example cannot be rewritten with sh = 1, but your prove is not complete or is fallacious "subtly". Finally, you will get 12 points if you provide a counterexample and prove that your example cannot be re-written with sh = 1.
