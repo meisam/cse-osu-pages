@@ -1,0 +1,16 @@
+---
+layout: course-ta
+title: CSE 625 (Fall 2011), Homework 1
+---
+
+h2. Homework #1
+
+The average for the 9:30 session is 46.8 and for the 10:30 session is 52.4.
+*Question 1* has 5 points.
+*Question 2* has 15 points (5 points for each part). 
+*Question 3* has 5 points. Not that you won't get any points unless you provide a counterexample that shows sometimes |A||B| is not equal to |AB|.
+*Question 4* has 15 points (5 points for each part).
+*Question 5* has 25 points (5 points for each part)
+*Question 6* has 25 points (5 point for each part)
+*Question 7* has 10 points. Note that many students used induction to prove this, yet as far as I remember none of them applied induction correctly.
+
