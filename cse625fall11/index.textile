@@ -1,0 +1,38 @@
+---
+layout: course-ta
+title: CSE 625 (Fall 2011)
+---
+h1. CSE 625: Introduction to Automata and Formal Languages, Fall 2011
+
+I'm a TA for CSE 625 for professor "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/ this quarter. If you have any question about the homework or grading, please stop by at my office. If you are not free during my office hours, please send me an email with a list of your free time slots.
+You may want to take a look at my "calendar":/calendar.html before sending me an email.
+
+*Office:* 118 Bolz Hall (Space #12)
+Columbus, OH 43210
+
+*Office hours:* Monday, Wednesday 1:30pm-2:30pm or by appointment
+
+*E-mail:* fathi-salmi [dot] 1 [at] osu [dot] edu
+
+h2. Homework #1
+
+*Question 1* has 5 points.
+*Question 2* has 15 points (5 points for each part). 
+*Question 3* has 5 points. Not that you won't get any points unless you provide a counterexample that shows sometimes |A||B| is not equal to |AB|.
+*Question 4* has 15 points (5 points for each part).
+*Question 5* has 25 points (5 points for each part)
+*Question 6* has 25 points (5 point for each part)
+*Question 7* has 10 points. Note that many students used induction to prove this, yet as far as I remember none of them applied induction currectly.
+
+h2. Homework #2
+
+*Question 1* has 4 points.
+*Question 2* has 12 points (4 points each part).
+*Question 3* has 36 points (4 points each part).
+*Question 4* has 16 points (4 points each part).
+*Question 5* has 32 points.
+Parts 'a', 'b' and 'c' each has 4 points.
+Part 'd' has 8 points (4 points for each subpart).
+Part 'e' has 12 points. If your answer to this part is merely TRUE/FALSE or if your answer is "FALSE" but the counterexample that you provide can be rewritten with sh = 1, you will get 0 points. If your answer is "False" and you provide a counterexample and you claim that the counter example is not equivalent to any sh=1 expression but you do not prove your claim, you will get 4 points.You will get 8 point if you provide a counterexample and prove that your example cannot be rewritten with sh = 1, but your prove is not complete or is fallacious "subtly". Finally, you will get 12 points if you provide a counterexample and prove that your example cannot be re-written with sh = 1.
+
+
