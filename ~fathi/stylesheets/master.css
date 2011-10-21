@@ -1,20 +1,19 @@
 body {
   letter-spacing: 0em;
-  background: #fff url(/images/header_bg.gif) repeat-x top;
-  color: #353B40;
+  background: #fff url(/~fathi/images/header_bg.png) repeat-x top;
+  color: #000000;
   margin: 1em;
   padding: 0;
   font-size: 1.1em;
 }
 
 a {
-  color: #583;
   font-weight: bold;
   text-decoration: none;
 }
 
-a:visited {
-  color: #260;
+a:visited{
+  color: #990000;
 }
 
 #wrapper {
@@ -36,15 +35,12 @@ a:visited {
 
 #header h1 a {  
   margin-top: 0px;
-  margin-left:0.5em;
   display: block;
-  background: url(/images/title.gif) no-repeat top left;
-  width: 405px;
-  height: 75px;
 }
 
 #menu {
   float: right;
+  color: #990000;
 }
 
 #menu ul {
@@ -69,16 +65,12 @@ a:visited {
   padding-right: 10px;
 }
 
-#menu ul li a#twitter_link { background-image: url(/images/twitter.gif); }
-#menu ul li a#blog_link { background-image: url(/images/blog.gif); }
-#menu ul li a#linkedin_link { background-image: url(/images/linkedin.gif); }
-#menu ul li a#github_link { background-image: url(/images/github.gif); }
-#menu ul li a#about_link { background-image: url(/images/about.gif); }
-
 #content {
   padding: 0.5em 0;
-  padding-bottom: 2em;
-  margin-bottom: 2em;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  padding-top: 1em;
+  margin-top:1em;
 }
 
 #content h2 {
@@ -127,11 +119,10 @@ div.post {
   padding: 0.3em 0.5em;
   margin: 0 0 0.2em 0;
   font-weight: bold;
-  background: #f8f8f8 url(/images/header_gradient.gif) repeat-x bottom;
+  background: #f8f8f8;
   -moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
-  font-weight: normal;
   color: #000;
   z-index: 10000;
 }

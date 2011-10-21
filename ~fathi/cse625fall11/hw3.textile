@@ -1,0 +1,35 @@
+---
+layout: homework-ta
+title: CSE 625 (Fall 2011), Homework 3
+---
+I'm grading it. It will be done by Saturday (Oct 22, 2011).
+
+table{cellspacing:40px}.
+|_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
+|=.  "1":#Q1    |=.  12    |=.  2  |=. 12  |=.   8.67  | Parts 'a', 'b' and 'c' each has 4 points |
+|=.  "2":#Q2    |=.   8    |=.  0  |=.  8  |=.   5.89  | Parts 'a' and 'b' each has 4 points |
+
+Some notes about homework #3.
+
+
+h2(#Q1). Question 1 <a name="Q1"></a>
+
+* A DFA does not have any transition labeled λ. If you have a λ transition, your answer is wrong.
+* Each state in a DFA over an alphabet with _n_ symbols has exactly _n_ outgoing transitions. If for any state you do not have exactly two outgoing transitions, your answer is wrong.
+
+h3(#Q1c). Part C
+
+The DFA shown below was a *COMMON MISTAKE*. This DFA does not accept 01 which is a string in the language, neither does it accept 0101 (and 010101 and ...). 
+!hw3-q1-a.gif(Wrong Answer.)!
+
+h2(#Q2). Question 2
+
+h3. Part A
+
+The question explicitly asks you to give a D.F.A. with  _only four states_.
+!hw3-q2-a.gif(An automata that accepts strings with even number of 0's and even number of 1's)! 
+
+h3. Part B
+
+One of the possible answers is (00+11+(10+01)(11+00)[^*^](10+01))[^*^].
+*Common Mistake:* Note that (00+11+0101+0110+1001+1010)[^*^] does NOT generate strings like 101101 which are in the language.
