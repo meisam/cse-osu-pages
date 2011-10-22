@@ -147,6 +147,16 @@ pre {
   letter-spacing: 0;
 }
 
+table.homework-list{
+  border-spacing:0px;
+}
+
+table.homework-list td, table.homework-list th{
+  padding: 10px;
+  border: 1px solid #000;
+}
+
+
 table.post-list {
   width: 100%;
   border-collapse: collapse;
