@@ -50,7 +50,7 @@ h3. Notes
 * The Kleene operation cannot be emulated by the union operation. If _A_ and _B_ are two finite languages, their union is still a finite language. But the Kleene closure of a finite language can be infinite.
 * All the above languages contain the base language which means they contain _ϕ_ and {λ}.
 * I've seen phrases such as "languages over Σ ∪ {λ}" or "languages over {Σ} ∪ {λ}". These are wrong because an alphabet cannot contain λ.
-* All finite languages are reqular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).
+* All finite languages are regular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).
 
 h2(#Q4). Question 4
 
