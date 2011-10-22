@@ -50,4 +50,23 @@ h3. Notes
 * The Kleene operation cannot be emulated by the union operation. If _A_ and _B_ are two finite languages, their union is still a finite language. But the Kleene closure of a finite language can be infinite.
 * All the above languages contain the base language which means they contain _ϕ_ and {λ}.
 * I've seen phrases such as "languages over Σ ∪ {λ}" or "languages over {Σ} ∪ {λ}". These are wrong because an alphabet cannot contain λ.
-* All finite languages are reqular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).  
+* All finite languages are reqular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).
+
+h2(#Q4). Question 4
+
+h3. Answer
+
+==|==F[~173~]==|== is finite and is an even number. It is finite because the number of DFAs that can be construct by __n__ states is finite and each DFA is equivalent to one and only one language. It is even because for any DFA with n states that accepts __L__, you can construct another DFA that accepts the compliment of __L__ by changing the final nodes to non-final and visa versa.[1]
+
+h3. Notes
+
+Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answering at least three other questions:
+# In how many ways can we assign final/non-final states to the DFA.
+# In how many different ways can we assign transition to states?.
+# In how many ways can we specify the initial state in a DFA with __n__ states?
+
+As far as I remember, nobody found the the correct answer to the second question and nobody even considered the third question. Nonetheless, if you who have shown the answer to the first question is an even number, you will get the full scores for this question.
+
+
+fn1. This elegant and concise proof was given by Tiffany Bogantz who is a student in the 9:30 session.
+ 
