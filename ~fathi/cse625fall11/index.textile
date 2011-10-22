@@ -17,6 +17,7 @@ h2. Homework
 
 You can find more information about each homework (the breakdown into points and distribution of scores) on the page for each homework[1]. 
 
+table(homework-list).
 |_.                      |_. MIN |_. MAX |_. AVERAGE |
 | "Homework #1":hw1.html |=. 0   |=. 100 |=.  49.6   |
 | "Homework #2":hw2.html |=. 0   |=. 96  |=.  47.2   |
