@@ -2,7 +2,7 @@
 layout: homework-ta
 title: CSE 625 (Fall 2011), Homework 3
 ---
-I'm grading it. It will be done by Saturday (Oct 22, 2011).
+I'm grading it. It will be done by Monday (Oct 24, 2011).
 
 table(homework-list). 
 |_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
