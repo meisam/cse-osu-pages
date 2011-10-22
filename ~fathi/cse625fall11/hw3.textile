@@ -33,3 +33,20 @@ h3. Part B
 
 One of the possible answers is (00+11+(10+01)(11+00)[^*^](10+01))[^*^].
 *Common Mistake:* Note that (00+11+0101+0110+1001+1010)[^*^] does NOT generate strings like 101101 which are in the language.
+
+h2(#Q3). Question 3
+
+It seems that question was somehow vague because many students didn't understand what this question really wants. In your future assignments, if you don't know what a question actually wants, please ask me.
+
+h3. Answers
+
+*Part ==(a)==:* The set of all languages with a finite number of strings (elements).
+*Part ==(b)==:*  The set of all languages whose strings are of length at most one.
+*Part ==(c)==:* The set of all languages that contain at most one string.
+
+h3. Notes
+
+* The Kleene operation cannot be emulated by the union operation. If _A_ and _B_ are two finite languages, their union is still a finite language. But the Kleene closure of a finite language can be infinite.
+* All the above languages contain the base language which means they contain _ϕ_ and {λ}.
+* I've seen phrases such as "languages over Σ ∪ {λ}" or "languages over {Σ} ∪ {λ}". These are wrong because an alphabet cannot contain λ.
+* All finite languages are reqular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).  
