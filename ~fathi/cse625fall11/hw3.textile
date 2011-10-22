@@ -4,7 +4,7 @@ title: CSE 625 (Fall 2011), Homework 3
 ---
 I'm grading it. It will be done by Saturday (Oct 22, 2011).
 
-table{cellspacing:40px}.
+table(homework-list). 
 |_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
 |=.  "1":#Q1    |=.  12    |=.  2  |=. 12  |=.   8.67  | Parts 'a', 'b' and 'c' each has 4 points |
 |=.  "2":#Q2    |=.   8    |=.  0  |=.  8  |=.   5.89  | Parts 'a' and 'b' each has 4 points |
