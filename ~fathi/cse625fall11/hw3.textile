@@ -7,11 +7,11 @@ I'm grading it. It will be done by Monday (Oct 24, 2011).
 table(homework-list). 
 |_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
 |=.  "1":#Q1    |=.  12    |=.  2  |=. 12  |=.   8.67  | Parts (a), (b) and ==(c)== each has 4 points. |
-|=.  "2":#Q2    |=.   8    |=.  0  |=.  8  |=.   5.89  | Parts (a), and (b) each has 4 points. |
+|=.  "2":#Q2    |=.   8    |=.  0  |=.  8  |=.   5.89  | Parts (a) and (b) each has 4 points. |
 |=.  "3":#Q3    |=.  12    |=.  0  |=.  12 |=.   5.46  | Parts (a), (b) and ==(c)== each has 4 points. |
 |=.  "4":#Q4    |=.  12    |=.  0  |=.  12 |=.   6.00  | See "below":#Q4 for detail. |
-|=.  "5":#Q5    |=.  12    |=.  0  |=.  12 |=.   4.48  | Parts (a), and (b) each has 4 points. See "below":#Q4 for detail. |
-|=.  "6":#Q6    |=.  12    |=.  0  |=.  12 |=.   8.00  | Parts (a), (b), ==(==c==)==, (d), (e), (f), each has 2 points. |
+|=.  "5":#Q5    |=.  12    |=.  0  |=.  12 |=.   4.48  | Parts (a), (b) and ==(c)== each has 4 points. See "below":#Q4 for detail. |
+|=.  "6":#Q6    |=.  12    |=.  0  |=.  12 |=.   8.00  | Parts (a), (b), ==(c)==, (d), (e), (f), each has 2 points. |
 
 Some notes about homework #3.
 
