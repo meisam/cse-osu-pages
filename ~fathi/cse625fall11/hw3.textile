@@ -60,10 +60,10 @@ h3. Answer
 
 h3. Notes
 
-Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answering at least three other questions:
+Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answering at least three other sub-questions:
 # In how many ways can we assign accepting/rejecting states to the DFA.
 # In how many different ways can we assign transition to states?.
 # In how many ways can we specify the initial state in a DFA with __n__ states?
 
-If you have shown the answer to the first question is an even number, you will get the full scores for this question (regardless of your answer to the second and third question.
+If you have shown the answer to the first sub-question is an even number, you will get the full scores for this question (regardless of your answer to the second and third sub-question).
 
