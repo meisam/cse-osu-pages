@@ -68,3 +68,8 @@ Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answ
 
 If you have shown the answer to the first sub-question is an even number, you will get the full scores for this question (regardless of your answer to the second and third sub-question).
 
+h2(#Q5). Question 5
+
+h3. Notes
+
+For the new DFA you should specify the set of states, the set of final state, the start state, and the transition function.
