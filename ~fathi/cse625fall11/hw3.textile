@@ -56,7 +56,7 @@ h2(#Q4). Question 4
 
 h3. Answer
 
-==|==F[~173~]==|== is finite and is an even number. It is finite because the number of DFAs that can be construct by __n__ states is finite and each DFA is equivalent to one and only one language. It is even because for any DFA with n states that accepts __L__, you can construct another DFA that accepts the compliment of __L__ by changing the accepting states to rejecting and visa versa.[1]
+==|==F[~173~]==|== is finite and is an even number. It is finite because the number of DFAs that can be construct by __n__ states is finite and each DFA is equivalent to one and only one language. It is even because for any DFA with n states that accepts __L__, you can construct another DFA that accepts the compliment of __L__ by changing the accepting states to rejecting and visa versa.
 
 h3. Notes
 
@@ -67,4 +67,3 @@ Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answ
 
 If you have shown the answer to the first question is an even number, you will get the full scores for this question (regardless of your answer to the second and third question.
 
-fn1. This elegant and concise proof was given by Xinyu Li, Xiaonan Ji, Zakariya Bainazarov and Tiffany Bogantz.
