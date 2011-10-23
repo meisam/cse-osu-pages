@@ -65,7 +65,7 @@ Many of you tried to find the exact value of ==|==F[~173~]==|==. This needs answ
 # In how many different ways can we assign transition to states?.
 # In how many ways can we specify the initial state in a DFA with __n__ states?
 
-As far as I remember, nobody found the the correct answer to the second question and nobody even considered the third question. Nonetheless, if you who have shown the answer to the first question is an even number, you will get the full scores for this question.
+As far as I remember, nobody found the the correct answer to the second question and nobody even considered the third question. Nonetheless, if you have shown the answer to the first question is an even number, you will get the full scores for this question.
 
 
 fn1. This elegant and concise proof was given by Xinyu Li, Xiaonan Ji, Zakariya Bainazarov and Tiffany Bogantz.
