@@ -13,6 +13,7 @@ table(homework-list).
 |=.  "5":#Q5    |=.  24    |=.  0  |=. 24  |=.  9.43  | Parts (a), (b) and ==(c)== each has 4 points. See "below":#Q5 for detail. |
 |=.  "6":#Q6    |=.  12    |=.  0  |=. 12  |=.  8.00  | Parts (a), (b), ==(c)==, (d), (e), (f), each has 2 points. |
 |=.  "7":#Q7    |=.  4     |=.  0  |=.  4  |=.  0.46  | See "below":#Q7 for detail. |
+|=.  "8":#Q8    |=.  16    |=.  0  |=. 16  |=. 14.00  |  Parts (a) and (b) each has 8 points. |
 
 Some notes about homework #3.                      
 
@@ -90,3 +91,7 @@ h3. Answers
 h2(#Q7). Question 7
 
 You can do it with three states.
+
+h2(#Q8). Question 8
+
+
