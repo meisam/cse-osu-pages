@@ -1,6 +1,5 @@
 digraph finite_state_machine {
 	rankdir=LR;
-	size="3,3";
 	node [color = white]; start;
 	node [color = black, shape = doublecircle]; 0;
 	node [color = black, shape = circle];
