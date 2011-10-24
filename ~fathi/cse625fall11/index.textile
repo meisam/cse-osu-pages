@@ -21,6 +21,6 @@ table(homework-list).
 |_.                      |_. MIN |_. MAX |_. AVERAGE |
 | "Homework #1":hw1.html |=. 0   |=. 100 |=.  49.6   |
 | "Homework #2":hw2.html |=. 0   |=. 96  |=.  47.2   |
-| "Homework #3":hw3.html |=.     |=.     |=.         |
+| "Homework #3":hw3.html |=. 10  |=. 92  |=.  57.9   |
 
 fn1. Note that these numbers are not 100% accurate. Some students turn in the homework late. Some students may drop the course during the quarter. 
