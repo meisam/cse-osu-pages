@@ -2,7 +2,8 @@
 layout: homework-ta
 title: CSE 625 (Autumn 2011), Homework 3
 ---
-I'm grading it. It will be done by Monday (Oct 24, 2011).
+
+The below table shows a summary of Homework #3
 
 table(homework-list). 
 |_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
@@ -15,21 +16,22 @@ table(homework-list).
 |=.  "7":#Q7    |=.  4     |=.  0  |=.  4  |=.  0.46  | See "below":#Q7 for detail. |
 |=.  "8":#Q8    |=.  16    |=.  0  |=. 16  |=. 14.00  |  Parts (a) and (b) each has 8 points. |
 
-Some notes about homework #3.                      
+You can find more detailed information and the answers to some of the questions below.
 
 h2(#Q1). Question 1 <a name="Q1"></a>
 
+h3. Notes
+
 * A DFA does not have any transition labeled λ. If you have a λ transition, your answer is wrong.
 * Each state in a DFA over an alphabet with _n_ symbols has exactly _n_ outgoing transitions. If for any state you do not have exactly two outgoing transitions, your answer is wrong.
-
-h3(#Q1c). Part C
-
-The DFA shown below was a *COMMON MISTAKE*. This DFA does not accept 01 which is a string in the language, neither does it accept 0101 (and 010101 and ...). 
+* for part ==(c)==, the DFA shown below was a *COMMON MISTAKE*. This DFA does not accept 01 which is a string in the language, neither does it accept 0101 (and 010101 and ...). 
 !hw3-q1-a.gif(Wrong Answer.)!
 
 h2(#Q2). Question 2
 
-h3. Part A
+h3. Answers
+
+h4. Part A
 
 The question explicitly asks you to give a D.F.A. with  _only four states_.
 !hw3-q2-a.gif(An automata that accepts strings with even number of 0's and even number of 1's)! 
@@ -41,7 +43,7 @@ One of the possible answers is (00+11+(10+01)(11+00)[^*^](10+01))[^*^].
 
 h2(#Q3). Question 3
 
-It seems that question was somehow vague because many students didn't understand what this question really wants. In your future assignments, if you don't know what a question actually wants, please ask me.
+It seems that question was somehow vague because many students didn't understand what this question really wants. In your future assignments, if you don't know what the question actually wants, please ask me.
 
 h3. Answers
 
@@ -54,7 +56,7 @@ h3. Notes
 * The Kleene operation cannot be emulated by the union operation. If _A_ and _B_ are two finite languages, their union is still a finite language. But the Kleene closure of a finite language can be infinite.
 * All the above languages contain the base language which means they contain _ϕ_ and {λ}.
 * I've seen phrases such as "languages over Σ ∪ {λ}" or "languages over {Σ} ∪ {λ}". These are wrong because an alphabet cannot contain λ.
-* All finite languages are regular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is wrong).
+* All finite languages are regular (why?). So a phrases such as "The set of all finate regular languages" is redundant (but it is not wrong).
 
 h2(#Q4). Question 4
 
@@ -90,8 +92,12 @@ h3. Answers
 
 h2(#Q7). Question 7
 
-You can do it with three states.
+h3. Notes
+
+This question was tricky. Almost only one out of 9 student gave the correct answer to this question. You can do it with three states as shown below 
+
+!hw3-q7.gif(Minimal NFA)!
 
 h2(#Q8). Question 8
 
-
+This question was straight forward and most of the students gave the correct answer to it.
