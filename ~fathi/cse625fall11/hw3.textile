@@ -94,9 +94,7 @@ h2(#Q7). Question 7
 
 h3. Notes
 
-This question was tricky. Almost only one out of 9 student gave the correct answer to this question. You can do it with three states as shown below 
-
-!hw3-q7.gif(Minimal NFA)!
+**I made a mistake when grading this question. Please contact me if you provided the correct answer for this question but didn't receive the total score. I'm really sorry for inconvinience.**
 
 h2(#Q8). Question 8
 
