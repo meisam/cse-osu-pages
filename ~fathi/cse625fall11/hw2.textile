@@ -1,6 +1,6 @@
 ---
 layout: homework-ta
-title: CSE 625 (Fall 2011), Homework 2
+title: CSE 625 (Autumn 2011), Homework 2
 ---
 The average for the 9:30 session is 46.4 and for the 10:30 session is 48.0.
 *Question 1* has 4 points.

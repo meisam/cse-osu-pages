@@ -1,9 +1,9 @@
 ---
 layout: course-ta
-title: CSE 625 (Fall 2011)
+title: CSE 625 (Autumn 2011)
 ---
 
-I'm a TA for CSE 625 (Introduction to Automata and Formal Languages) for professor "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/ this quarter (Fall 2001). If you have any question about the homework or grading, please come to my office. If you are not free during my office hours, please send me an email with a list of your free time slots.
+I'm a TA for CSE 625 (Introduction to Automata and Formal Languages) for professor "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/ this quarter (Autumn 2001). If you have any question about the homework or grading, please come to my office. If you are not free during my office hours, please send me an email with a list of your free time slots.
 You may want to take a look at my "calendar":/~fathi/calendar.html before sending me an email.
 
 *Office:* 118 Bolz Hall (Space #12)
