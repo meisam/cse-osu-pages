@@ -39,4 +39,6 @@ h2(#Q4). Question 4
 
 To my best knowledge, it is not proven yet that any even number can be written as sum of two prime numbers (a.k.a. Goldbach's conjecture). As far as I know, it is still a conjecture. However if you know that it is proven (recently), please direct me to the correct reference. Having said that, those students who have used Goldbach's conjecture to give and example of an irregular language __L__ for which __L[^2^]__ is regular will receive no points for question 4.
 
+h2(#Q5). Question 5
 
+Hint: Take __x=(ab)[^n-1^]bb(ab)[^n^].
