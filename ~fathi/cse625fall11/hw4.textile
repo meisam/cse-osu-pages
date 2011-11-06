@@ -26,4 +26,9 @@ h3. Notes
 
 h2(#Q2). Question 2
 
-**Part (i):** Consider these languages: __L[~i~]__ = {all non prime numbers} ∪ {all prime numbers less than __i__ }
+**Part (g)** 
+Hint: __L[~2~] = (L[~1~] ∩ L[~2~]) ∪ ((L[~1~] ∪ L[~2~]) - L[~1~])__  
+**Part (h)**
+Hint: Consider these languages: __L[~i~]__ = __{a[^i^]b[^i^]}__
+**Part (i)**
+Hint: Consider these languages: __L[~i~]__ = {all non prime numbers} ∪ {all prime numbers less than __i__ }
