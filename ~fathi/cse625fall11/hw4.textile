@@ -1,0 +1,29 @@
+---
+layout: homework-ta
+title: CSE 625 (Autumn 2011), Homework 4
+---
+I'm grading it. Hopefully the scores will be ready by Monday (November 7, 2011)
+The below table shows a summary of Homework #4
+
+table(homework-list). 
+|_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
+|=.  "1":#Q1    |=.   15   |=.  0  |=. 15  |=.   13    | Parts (a), (b) and ==(c)== each has 5 points. |
+|=.  "2":#Q2    |=.   45   |=. 10  |=. 45  |=.   32    | Parts (a) to (i) each has 5 points. |
+|=.  "3":#Q3    |=.   10   |=.  ?  |=. ??  |=.         | Parts (a), (b)  each has 5 points. |
+|=.  "4":#Q4    |=.   10   |=.  ?  |=. ??  |=.         | |
+|=.  "5":#Q5    |=.   10   |=.  ?  |=. ??  |=.         | |
+|=.  "6":#Q6    |=.   10   |=.  ?  |=. ??  |=.         | |
+
+You can find more detailed information and the answers to some of the questions below.
+
+h2(#Q1). Question 1
+
+h3. Notes
+
+* For each part, you will lose one point if your proof has a subtle flaw. 
+* For part ==(c)==, you should show that there exist an __i__ such that __uv[^i^]w__ is neither is __0[^n^]1[^n^]__ nor __0[^n^]1[^2n^]__. If you do not show this, you'll lose 1 point. If you have both "Let __x = 0[^n^]1[^n^]__" and "Let __x = 0[^n^]1[^2n^]__" in your answer to prove that this language is not regular, then you are trying to prove it twice!   
+* Generally we do not know the values for __u__, __v__, and __w__. Consequently, if __n__ is the number given by the Pumping Lemma and you have sentences such as __u__=__a[^n^]__ in your answer, you probably need to review the Pumping Lemma.
+
+h2(#Q2). Question 2
+
+**Part (i):** Consider these languages: __L[~i~]__ = {all non prime numbers} ∪ {all prime numbers less than __i__ }
