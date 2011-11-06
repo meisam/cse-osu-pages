@@ -7,16 +7,16 @@ The below table shows a summary of Homework #4
 
 table(homework-list). 
 |_. Question #  |_. Points |_. MIN |_. MAX |_. AVERAGE |_. Comments |
-|=.  "1":#Q1    |=.   15   |=.  0  |=. 15  |=.   13    | Parts (a), (b) and ==(c)== each has 5 points. |
-|=.  "2":#Q2    |=.   45   |=. 10  |=. 45  |=.   32    | Parts (a) to (i) each has 5 points. |
-|=.  "3":#Q3    |=.   10   |=.  ?  |=. ??  |=.         | Parts (a), (b)  each has 5 points. |
-|=.  "4":#Q4    |=.   10   |=.  ?  |=. ??  |=.         | |
+|=.  "1":#Q1    |=.   15   |=.  0  |=. 15  |=. 13      | Parts (a), (b) and ==(c)== each has 5 points. |
+|=.  "2":#Q2    |=.   45   |=. 10  |=. 45  |=. 32      | Parts (a) to (i) each has 5 points. |
+|=.  "3":#Q3    |=.   10   |=.  0  |=. 10  |=.  6.79   | Parts (a), (b)  each has 5 points. |
+|=.  "4":#Q4    |=.   10   |=.  0  |=. 10  |=.  4.71   | |
 |=.  "5":#Q5    |=.   10   |=.  ?  |=. ??  |=.         | |
 |=.  "6":#Q6    |=.   10   |=.  ?  |=. ??  |=.         | |
 
 You can find more detailed information and the answers to some of the questions below.
 
-h2(#Q1). Question 1
+h2(#Q1). Question 1                                                    
 
 h3. Notes
 
@@ -32,3 +32,11 @@ Hint: __L[~2~] = (L[~1~] ∩ L[~2~]) ∪ ((L[~1~] ∪ L[~2~]) - L[~1~])__
 Hint: Consider these languages: __L[~i~]__ = __{a[^i^]b[^i^]}__
 **Part (i)**
 Hint: Consider these languages: __L[~i~]__ = {all non prime numbers} ∪ {all prime numbers less than __i__ }
+
+h2(#Q3). Question 3
+
+h2(#Q4). Question 4
+
+To my best knowledge, it is not proven yet that any even number can be written as sum of two prime numbers (a.k.a. Goldbach's conjecture). As far as I know, it is still a conjecture. However if you know that it is proven (recently), please direct me to the correct reference. Having said that, those students who have used Goldbach's conjecture to give and example of an irregular language __L__ for which __L[^2^]__ is regular will receive no points for question 4.
+
+
