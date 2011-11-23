@@ -24,5 +24,6 @@ table(homework-list).
 | "Homework #2":hw2.html |=.   12   |=.   96   |=.    47.2    |
 | "Homework #3":hw3.html |=.   10   |=.   92   |=.    57.9    |
 | "Homework #4":hw4.html |=.   15   |=.   90   |=.    59.6    |
+| "Homework #5":hw5.html |=.   15   |=.   95   |=.    63.0    |
 
 fn1. Note that these numbers are not 100% accurate. Some students turn in the homework late. Some students may drop the course during the quarter. 
