@@ -1,23 +1,25 @@
 body {
+  font-family: serif;
   letter-spacing: 0em;
-  background: #fff url(/~fathi/images/header_bg.png) repeat-x top;
-  color: #000000;
-  margin: 1em;
+  background: #fff;
+  color: #000;
+  margin: 0;
   padding: 0;
-  font-size: 1.1em;
+  font-size: 1.2em;
 }
 
 a {
+  color: #888;
   font-weight: bold;
   text-decoration: none;
 }
 
-a:visited{
-  color: #990000;
+a:visited {
+  color: #931C25;
 }
 
 #wrapper {
-  width: 100%;
+  width: 960px;
   margin: 0 auto;
   padding: 0;
   -moz-border-radius: 1.5em;
@@ -26,51 +28,64 @@ a:visited{
 }
 
 #header {
-  height: 75px;
+  background: #931C25 url(/~fathi/images/osu_logo.png) no-repeat top right;
+  color: #fff;
+  height: 140px;
+  box-shadow: 5px 5px 3px #bbb;
 }
 #header h1 {
   float: left;
-  margin:0px;
+  padding: 20px;
 }
 
 #header h1 a {  
-  margin-top: 0px;
+  margin-top: 10px;
   display: block;
+  background: url(/~fathi/images/title.gif) no-repeat top left;
+  width: 405px;
+  height: 80px;
+  text-indent: -999em;
 }
 
 #menu {
   float: right;
-  color: #990000;
+  width:220px;
+  background:#eee;
+  border-width: 1px;
+  border:solid;
+  box-shadow: 3px 3px 3px #bbb;
 }
 
 #menu ul {
-  list-style: none;
-  margin: 0;
-  text-align: center;
-  margin-top: 0px;
+  list-style: square;
+  margin:0px;
+  padding:0px;
 }
 
 #menu ul li {
   display: block;
-  float: left;
-  margin-left: 0px;
+  border:solid;
+  border-width:1px;
+}
+
+#menu ul li:hover {
+  background:#ccc;
 }
 
 #menu ul li a {
-  display: block;
-  background: repeat-x top left;
-  height: 75px;
-  margin: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left:1em;
+  width:100%;
+}
+
+#portrait{
+  float:left;
+  box-shadow: 3px 3px 3px #bbb;
+  margin:1em;
+  padding:0px;
 }
 
 #content {
-  padding: 0.5em 0;
-  padding-bottom: 1em;
-  margin-bottom: 1em;
-  padding-top: 1em;
-  margin-top:1em;
+  padding: 2em 0;
 }
 
 #content h2 {
@@ -84,45 +99,44 @@ a:visited{
 }
 
 span.date {
-  background: #6e9b20 url(/images/gray_gradient.gif) repeat-x top;
+  background: #6e9b20 url(/~fathi/images/green_gradient.gif) repeat-x top;
   display: block;
   padding: 0.4em 0.6em 0.5em;
   font-weight: bold;
-  width: 120px;
   color: white;
-  -moz-border-radius-topleft: px;
+  -moz-border-radius-topleft: 8px;
   -webkit-border-top-left-radius: 8px;
   -moz-border-radius-topright: 8px;
   -webkit-border-top-right-radius: 8px;  
   -moz-box-shadow: 1px -1px 5px rgba(0,0,0,0.4);
   -webkit-box-shadow: 1px -1px 5px rgba(0,0,0,0.4);
   box-shadow: 1px -1px 5px rgba(0,0,0,0.4);    
+  float: left;
   text-shadow: black 1px 1px 4px;
 }
 
 div.post {
   margin-bottom: 2em;
-  margin-left: 2em;
-  margin-right:2em;
   color: #333;
-  text-align:justify;
 }
 
 .post h1 {
-  margin-top: 0px;
+  margin-top: 0.2em;
 }
 
 .post h1 a, #content h2, #footer {
   text-decoration: none;
+  clear: left;
   display: block;
   color: black;
   padding: 0.3em 0.5em;
   margin: 0 0 0.2em 0;
   font-weight: bold;
-  background: #f8f8f8;
+  background: #f8f8f8 url(/~fathi/images/header_gradient.gif) repeat-x bottom;
   -moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
+  font-weight: normal;
   color: #000;
   z-index: 10000;
 }
@@ -146,16 +160,6 @@ pre {
   font-size: 14px;
   letter-spacing: 0;
 }
-
-table.homework-list{
-  border-spacing:0px;
-}
-
-table.homework-list td, table.homework-list th{
-  padding: 10px;
-  border: 1px solid #000;
-}
-
 
 table.post-list {
   width: 100%;
@@ -186,13 +190,15 @@ div.related {
 
 #footer {
   background-position: top;
-  margin: 1em 0 0 0;
-  width: 100%;
-  clear:left;
+  margin: 2em auto 1em;
+  width: 960px;
   color: #444;
   font-size: 0.9em;
-  padding:0px;
+  padding: 0.5em 0;
   text-align: center;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
 }
 
 #footer a {
@@ -202,12 +208,13 @@ div.related {
 }
 
 .home_box {
+  float: left;
 }
 
 #content .home_box h2 {
-  background: #bababa url(/images/gray_gradient.gif) repeat-x bottom;
+  background: #6e9b20 url(/~fathi/images/green_gradient.gif) repeat-x bottom;
   padding: 0.3em 0.5em;
-  border-bottom: 3px solid #ababab;
+  border-bottom: 3px solid #262;
   margin-bottom: 0em;
   color: white;
   font-weight: normal;
@@ -230,19 +237,16 @@ div.related {
 
 .home_box h2 a {
   color: white;
-  margin: 0.5 0.2em;
+  margin: 0 0.2em;
 }
 
 #home_left {
-  padding:1em;
-  margin-right:300px;
+  width: 680px;
 }
 
 #home_right {
-  float:right;
-  width:260px;
-  margin:0;
-  padding:1em;
+  width: 260px;
+  margin-left: 1em;
 }
 
 .clearfix { clear: both;}
@@ -258,12 +262,13 @@ code {
 
 .repo {
   text-decoration: none;
+  clear: left;
   display: block;
   color: black;
   padding: 0.5em 0.7em;
   margin: 0 0 0.8em 0;
   font-weight: bold;
-  background: #f8f8f8 url(/images/header_gradient.gif) repeat-x bottom;
+  background: #f8f8f8 url(/~fathi/images/header_gradient.gif) repeat-x bottom;
   -moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
   box-shadow: 1px 1px 5px rgba(0,0,0,0.6);
