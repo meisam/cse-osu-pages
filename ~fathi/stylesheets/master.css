@@ -65,10 +65,11 @@ a:visited {
   padding:0px;
 }
 
-#menu ul li {
+#menu li {
   display: block;
   border:solid;
   border-width:1px;
+  padding:5px;
 }
 
 #menu ul li:hover {
