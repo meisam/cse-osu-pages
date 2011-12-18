@@ -4,23 +4,24 @@ title: Meisam Fathi Salmi
 ---
 <div id="portrait">!/~fathi/images/portrait.jpg!</div>
 
-*Meisam Fathi Salmi*
-"Department of computer Science and Engineering":http://www.cse.osu.edu
+h1(#title). Meisam Fathi Salmi
+
+"Department of Computer Science and Engineering":http://www.cse.osu.edu
 "The Ohio State University":http://www.osu.edu
+"395 Dreese Laboratories":http://g.co/maps/camg9
+2015 Neil Avenue
+Columbus, OH 43210-1277, U.S.A.
+
+h2. Contact
 
 *Email*: fathi [at] cse [dot] ohio-state [dot] edu
-*URL*: http://www.cse.ohio-state.edu/~fathi
+*URL*: "http://www.cse.ohio-state.edu/~fathi":http://www.cse.ohio-state.edu/~fathi
 
-*Office*
-Bolz Hall 118
-Columbus, OH 43210, U.S.A.
-
+*Office*: Bolz Hall 118
 *Office Hours*: Monday, Wednesday, 1:30pm-2:30-pm or by appointment.
+*Calendar*: !http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
 
-*Calendar*:
-!http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
-
-h3. Courses
+h2(#title). Courses
 
 * Autumn 2011: 
 ** CSE 788.07: "Dynamic Program Analysis and Runtime Systems for Reliable Concurrent Software":http://www.cse.ohio-state.edu/~mikebond/788/ by "Mike Bond":http://www.cse.ohio-state.edu/~mikebond/ 
@@ -28,7 +29,7 @@ h3. Courses
 ** CSE 885: "Seminar on Research Topics in Computer": by "Xiaodong Zhang":http://www.cse.ohio-state.edu/~zhang/ and others 
 ** EDUTL 505: Classroom English for International Graduate Teaching Associates  by Ruth Roberts-Kohno
 
-h3. TA
+h2(#title). TA
 
 * Autumn 2011
 ** CSE 625: "Introduction to Automata and Formal Languages":cse625fall11/index.html by "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/.
