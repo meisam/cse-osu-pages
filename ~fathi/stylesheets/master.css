@@ -178,6 +178,9 @@ table.homework-list td, table.homework-list th{
   border: 1px solid #000;
 }
 
+img{
+  vertical-align:middle;
+}
 
 table.post-list {
   width: 100%;
