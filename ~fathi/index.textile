@@ -17,7 +17,7 @@ h2. Contact
 *Email*: fathi [at] cse [dot] ohio-state [dot] edu
 *URL*: "http://www.cse.ohio-state.edu/~fathi":http://www.cse.ohio-state.edu/~fathi
 
-*Office*: Bolz Hall 118
+*Office*: "Bolz Hall 118":http://g.co/maps/hdvnf
 *Office Hours*: Monday, Wednesday, 1:30pm-2:30-pm or by appointment.
 *Calendar*: !http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
 
