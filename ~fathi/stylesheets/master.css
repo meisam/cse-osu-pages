@@ -9,7 +9,6 @@ body {
 }
 
 a {
-  color: #888;
   font-weight: bold;
   text-decoration: none;
 }
@@ -33,9 +32,13 @@ a:visited {
   height: 140px;
   box-shadow: 5px 5px 3px #bbb;
 }
-#header h1 {
+#header h1{
   float: left;
   padding: 20px;
+}
+
+#title{ 
+  padding: 0px;
 }
 
 #header h1 a {  
@@ -79,9 +82,12 @@ a:visited {
 
 #portrait{
   float:left;
+  border:solid;
+  border-width:1px;
   box-shadow: 3px 3px 3px #bbb;
-  margin:1em;
-  padding:0px;
+  margin-right:1em;
+  margin-bottom:1em;
+  padding:0em;
 }
 
 #content {
@@ -139,6 +145,7 @@ div.post {
   font-weight: normal;
   color: #000;
   z-index: 10000;
+  clear:left;
 }
 
 div.post h3 {
