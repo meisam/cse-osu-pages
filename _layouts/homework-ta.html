@@ -21,19 +21,18 @@
   </head>
   <body>
     <div id='wrapper'>
-        <div id='menu'>
-          <ul>
-            <li><a href='index.html' id='course_link' title='Course Webpage'>Course</a></li>
-            <li><a href='../index.html' id='home_link' title='Home'>Home</a></li>
-            <li><a href='http://cse.osu.edu' id='cse_link' title='Computer Science and Engineering Department'>CSE</a></li>
-            <li><a href='http://www.osu.edu' title='The Ohio State University' id='osu_link'>OSU</a></li>
-          </ul>
-        </div>
-        <br/>
       <div id='header'>
         <h1>{{ page.title }}</h1>
       </div>
-     <div id='content'>
+      <div id='content'>
+        <div id='menu'>
+          <ul>
+            <li><a href='index.html' id='home_link' title='Home'>Course Home Page</a></li>
+            <li><a href='/~fathi/index.html' id='home_link' title='Home'>Home</a></li>
+            <li><a href='http://www.cse.osu.edu' id='cse_link' title='Computer Science and Engineering Department'>CSE</a></li>
+            <li><a href='http://www.osu.edu' title='The Ohio State University' id='osu_link'>OSU</a></li>
+          </ul>
+        </div>
         {{ content }}
       </div>
     </div>
