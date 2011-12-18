@@ -2,6 +2,11 @@
 layout: master
 title: Meisam Fathi Salmi
 ---
+<div id="portrait">!/~fathi/images/portrait.jpg!</div>
+
+*Meisam Fathi Salmi*
+"Department of computer Science and Engineering":http://www.cse.osu.edu
+"The Ohio State University":http://www.osu.edu
 
 *Email*: fathi [at] cse [dot] ohio-state [dot] edu
 *URL*: http://www.cse.ohio-state.edu/~fathi
@@ -12,6 +17,9 @@ Columbus, OH 43210, U.S.A.
 
 *Office Hours*: Monday, Wednesday, 1:30pm-2:30-pm or by appointment.
 
+*Calendar*:
+!http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
+
 h3. Courses
 
 * Autumn 2011: 
@@ -21,7 +29,7 @@ h3. Courses
 ** EDUTL 505: Classroom English for International Graduate Teaching Associates  by Ruth Roberts-Kohno
 
 h3. TA
-  
+
 * Autumn 2011
 ** CSE 625: "Introduction to Automata and Formal Languages":cse625fall11/index.html by "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/.
 
