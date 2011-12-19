@@ -91,6 +91,12 @@ a:visited {
   padding:0em;
 }
 
+#qrcode{
+  float:right;
+  margin:0px;
+  padding:0em;
+}
+
 #content {
   padding: 2em 0;
 }
