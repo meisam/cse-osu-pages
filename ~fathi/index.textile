@@ -27,6 +27,8 @@ Columbus, OH 43210, U.S.A.
 *Office Hours*: Monday, Wednesday, 1:30pm-2:30-pm or by appointment.
 *Calendar*: !http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
 
+h2(#Research). Research
+
 h2(#Courses). Courses
 
 * Autumn 2011: 
@@ -35,7 +37,7 @@ h2(#Courses). Courses
 ** CSE 885: "Seminar on Research Topics in Computer": by "Dr. Xiaodong Zhang":http://www.cse.ohio-state.edu/~zhang/ and others 
 ** EDUTL 505: Classroom English for International Graduate Teaching Associates  by Dr. Ruth Roberts-Kohno
 
-h2(#TA). TA
+h2(#Teaching). Teaching Assistant
 
 * Autumn 2011
 ** CSE 625: "Introduction to Automata and Formal Languages":cse625fall11/index.html by "Dr. Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/.
