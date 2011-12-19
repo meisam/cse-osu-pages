@@ -6,17 +6,19 @@ title: Meisam Fathi Salmi
 
 h1(#title). Meisam Fathi Salmi
 
+Ph.D. Candidate
 "Department of Computer Science and Engineering":http://www.cse.osu.edu
 "The Ohio State University":http://www.osu.edu
 
-I'm a first year PhD. student in the Ohio State University. My research interests are programming languages and compilers, particularly, I'm interested in automatic analysis of programs for detecting bugs. During my master studies, I was working on using static analysis techniques for detecting bugs. Now, I'm working on dynamic analysis techniques for detecting bugs in concurrent programs.
+I'm a first year Ph.D. student in the Ohio State University. My research interests are programming languages and compilers, particularly, I'm interested in automatic analysis of programs for detecting bugs. During my master studies, I was working on using static analysis techniques for detecting bugs. Now, I am working on dynamic analysis techniques for detecting bugs in concurrent programs under the supervision of "Dr. Michael Bond":http://www.cse.ohio-state.edu/~mikebond in the "Programming Languages and Software Systems (PLaSS) Group":http://www.cse.ohio-state.edu/~mikebond/plass/.
 
-h2. Contact
+h2(#Contact). Contact
 
+<div id="qrcode">!/~fathi/images/qr_cotact_info.png!</div>
 *Address*
 2015 Neil Avenue
 "395 Dreese Laboratories":http://g.co/maps/camg9
-Columbus, OH 43210-1277, U.S.A.
+Columbus, OH 43210, U.S.A.
 
 *Email*: fathi [at] cse [dot] ohio-state [dot] edu
 *URL*: "http://www.cse.ohio-state.edu/~fathi":http://www.cse.ohio-state.edu/~fathi
@@ -25,16 +27,22 @@ Columbus, OH 43210-1277, U.S.A.
 *Office Hours*: Monday, Wednesday, 1:30pm-2:30-pm or by appointment.
 *Calendar*: !http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
 
-h2(#title). Courses
+h2(#Courses). Courses
 
 * Autumn 2011: 
-** CSE 788.07: "Dynamic Program Analysis and Runtime Systems for Reliable Concurrent Software":http://www.cse.ohio-state.edu/~mikebond/788/ by "Mike Bond":http://www.cse.ohio-state.edu/~mikebond/ 
-** CSE 755: "Programming Languages":http://www.cse.ohio-state.edu/~rountev/755/ by "Atanas (Nasko) Rountev":http://www.cse.ohio-state.edu/~rountev/        
-** CSE 885: "Seminar on Research Topics in Computer": by "Xiaodong Zhang":http://www.cse.ohio-state.edu/~zhang/ and others 
-** EDUTL 505: Classroom English for International Graduate Teaching Associates  by Ruth Roberts-Kohno
+** CSE 788.07: "Dynamic Program Analysis and Runtime Systems for Reliable Concurrent Software":http://www.cse.ohio-state.edu/~mikebond/788/ by "Dr. Michael Bond":http://www.cse.ohio-state.edu/~mikebond/ 
+** CSE 755: "Programming Languages":http://www.cse.ohio-state.edu/~rountev/755/ by "Dr. Atanas (Nasko) Rountev":http://www.cse.ohio-state.edu/~rountev/        
+** CSE 885: "Seminar on Research Topics in Computer": by "Dr. Xiaodong Zhang":http://www.cse.ohio-state.edu/~zhang/ and others 
+** EDUTL 505: Classroom English for International Graduate Teaching Associates  by Dr. Ruth Roberts-Kohno
 
-h2(#title). TA
+h2(#TA). TA
 
 * Autumn 2011
-** CSE 625: "Introduction to Automata and Formal Languages":cse625fall11/index.html by "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/.
+** CSE 625: "Introduction to Automata and Formal Languages":cse625fall11/index.html by "Dr. Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/.
+
+h2(#AboutMe). About me
+
+* Education:
+** Masters in Computer Engineering: Department of Software Engineering, "Iran University of Science and Technology":http://www.iust.ac.ir/home_en.php.
+** Bachelors in Computer Engineering: Department of Computer Engineering, "Tarbiat Moallem University":http://www.tmu.ac.ir
 
