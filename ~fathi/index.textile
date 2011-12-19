@@ -8,11 +8,15 @@ h1(#title). Meisam Fathi Salmi
 
 "Department of Computer Science and Engineering":http://www.cse.osu.edu
 "The Ohio State University":http://www.osu.edu
-"395 Dreese Laboratories":http://g.co/maps/camg9
-2015 Neil Avenue
-Columbus, OH 43210-1277, U.S.A.
+
+I'm a first year PhD. student in the Ohio State University. My research interests are programming languages and compilers, particularly, I'm interested in automatic analysis of programs for detecting bugs. During my master studies, I was working on using static analysis techniques for detecting bugs. Now, I'm working on dynamic analysis techniques for detecting bugs in concurrent programs.
 
 h2. Contact
+
+*Address*
+2015 Neil Avenue
+"395 Dreese Laboratories":http://g.co/maps/camg9
+Columbus, OH 43210-1277, U.S.A.
 
 *Email*: fathi [at] cse [dot] ohio-state [dot] edu
 *URL*: "http://www.cse.ohio-state.edu/~fathi":http://www.cse.ohio-state.edu/~fathi
