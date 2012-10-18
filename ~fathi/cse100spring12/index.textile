@@ -1,0 +1,19 @@
+---
+layout: course-ta
+title: CSE 100 (Spring 2012)
+---
+
+I'm a teaching "CSE 100 (Introduction to Computing Technology)":http://www.cse.ohio-state.edu/cgi-bin/syllabus-view.cgi?cgi_state=view;SYLLABUS_ID=623 this quarter (Spring 2012). This course is available on "Carman":https://carmen.osu.edu/.
+If you have any question about the homework or grading, please come to my office or send me an email.
+
+If you are not free during my office hours, please send me an email with a list of your free time slots. You may want to take a look at my "calendar":/~fathi/calendar.html before sending me an email.
+
+*Office:* Caldwell Laboratory, Room 418
+Columbus, OH 43210
+
+*Office hours:* Monday 9:00-10:00am or by appointment
+
+*E-mail:* fathi [at] cse [dot] ohio-state [dot] edu
+
+
+

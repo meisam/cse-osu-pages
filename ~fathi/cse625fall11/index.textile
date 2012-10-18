@@ -3,27 +3,4 @@ layout: course-ta
 title: CSE 625 (Autumn 2011)
 ---
 
-I'm a TA for CSE 625 (Introduction to Automata and Formal Languages) for professor "Kenneth J. Supowit":http://www.cse.ohio-state.edu/~supowit/ this quarter (Autumn 2011). If you have any question about the homework or grading, please come to my office or send me an email.
-
-If you are not free during my office hours, please send me an email with a list of your free time slots. You may want to take a look at my "calendar":/~fathi/calendar.html before sending me an email.
-
-*Office:* 118 Bolz Hall (Space #12)
-Columbus, OH 43210
-
-*Office hours:* Monday, Wednesday 1:30pm-2:30pm or by appointment
-
-*E-mail:* fathi [at] cse [dot] ohio-state [dot] edu
-
-h2. Homework
-
-You can find more information about each homework (the breakdown into points and distribution of scores for each question) on the page for each homework. 
-
-table(homework-list).
-|_.                      |_. MIN[1] |_. MAX[1] |_. AVERAGE[1] |
-| "Homework #1":hw1.html |=.   10   |=.  100   |=.    49.6    |
-| "Homework #2":hw2.html |=.   12   |=.   96   |=.    47.2    |
-| "Homework #3":hw3.html |=.   10   |=.   92   |=.    57.9    |
-| "Homework #4":hw4.html |=.   15   |=.   90   |=.    59.6    |
-| "Homework #5":hw5.html |=.   15   |=.   95   |=.    63.0    |
-
-fn1. Note that these numbers are not 100% accurate. Some students turn in the homework late. Some students may drop the course during the quarter. 
+The Contets of this course have been archived.
