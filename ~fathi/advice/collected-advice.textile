@@ -1,0 +1,12 @@
+---
+layout: blog
+title: Collected Advice
+---
+
+This page contains a set of collected advice from other professors. This collection mostly targets graduate students in computer science departments. Graduate students in other departments may find it usefull. There are also a collection of talks--mostly by people outside the computer science field--that I find interesting or inspiring.
+
+
+h2(#advice). Advice
+* "Mark Leone":http://www.cs.cmu.edu/~mleone/ compiled an amazing collection of advice over years: "Advice on Research and Writing":http://www.cs.cmu.edu/~mleone/how-to.html
+
+h2(#talks). Talks
