@@ -1,0 +1,17 @@
+---
+layout: blog
+title: Advice on Teaching
+---
+
+This page contains a set of collected advice on teaching. Most of the contents of this page are based on "What the best college teachers do":http://www.hup.harvard.edu/catalog.php?isbn=9780674013254 by "Ken Bain":http://www.bestteachersinstitute.org/kenbain.html.
+
+h2(#what_they_know). What does a teacher need to know about how students learn?
+
+If I may summarize the answer to this question, good teachers know that most students come to the class with wrong assumptions and intuitions about the subject and a lot of them finish the class without changing what they think. Good teachers know this fact and they know how to help their students step on these wrong assumptions and intuitions, One good example is most people think the telephone system or the Internet are secure systems,
+
+h2(#prepare_to_teach). How to prepare to teach?
+
+Teaching is not about what you should do in the class as a teacher, it is about what students should learn in the class. Best collage teachers ask the following question from themselves when they prepare material for a course.
+
+# What big questions will this course help the students answer? E.g. Is singularity possible?
+# What skills should students develop to answer the big questions on the course? During the course, students should learn how to think like a computer scientist--or historian, or biologist for that matter.
