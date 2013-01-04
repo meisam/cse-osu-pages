@@ -19,4 +19,8 @@ h3(error_massages). Learn common rrror massages
 
 I admit that Jikes RVM is not very debuggable but there are some very common error massages that are very likely to show up in your stack traces every now and then, You should know two things about these stack traces, 1) what can cause them 2) what cannot cause them. Knowing what can cause an error message is essential in a not-vey-debuggable-system such as Jikes RVM but it is not always feasible. In many cases you wont have any clue about the origin of the error message. To add more salt into the You can save enourmous amount of your time if you learn what cannot
 
+h4(common_error_messages). A list of common error messages in Jikes.
 
+# Boot image build fails with "Java heap out of memory". There are two reasons why you are getting this error message:
+** You get are compiling too many premordial classes into boot image. The solution is to increase the boot image datea/code size.
+** You are simply printing too much into standard output when you are building the boot image. I faced this issue when I was trying to find where each vriable is initialized so, I put print statements in my code to print information about every variable that is initialized. Obviosuly, many objectd are initialized during boot image creation. Consequently, my boot image size was more than 400MB. The solution, not need to say, was to get rid of all those print statements.
