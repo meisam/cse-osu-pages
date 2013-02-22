@@ -23,6 +23,7 @@ Columbus, OH 43210, U.S.A.
 *URL*: "http://www.cse.ohio-state.edu/~fathi":http://www.cse.ohio-state.edu/~fathi
 
 *Office*: "674 Dreese labs":http://g.co/maps/camg9
+*TA office:* "174 Dreese labs":http://g.co/maps/camg9
 *Calendar*: !http://www.google.com/calendar/images/ext/gc_button1.gif(My Google Calendar)!:calendar.html
 
 h2(#Research). Research
@@ -38,6 +39,8 @@ Michael D. Bond, Milind Kulkarni, Meisam Fathi Salmi, Minjia Zhang, Swarnendu Bi
 Meisam Fathi Salmi, and Saeed Parsa
 
 h2(#Teaching). Teaching Assistant
+* Spring 2013
+** CSE 2111: Teaching "Modeling and Problem Solving with Spreadsheets and Databases":cse2111spring13/index.html
 * Spring 2012
 ** CSE 100: Teaching "Introduction to Computing Technology":cse100spring12/index.html
 * Winter 2012
