@@ -1,0 +1,20 @@
+---
+layout: course-ta
+title: CSE 100 (Autumn 2012)
+---
+
+*Lecture time:* Tuesday, Thursday 8:00pm-9:20pm
+
+*Lab time:* Monday 8:00pm-8:55pm
+
+*Office:* Dreese Laboratory, Room 174
+Columbus, OH 43210
+
+*Office hours:* TBD
+
+*E-mail:* fathi-salmi.1 [at] osu [dot] edu
+
+I'm a TAing "CSE 2111 (Modeling and Problem Solving with Spreadsheets and Databases)":http://coe-portal.cse.ohio-state.edu/pdf-exports/CSE/CSE-2111.pdf this semester (Spring 2013). This course is available on "Carman":https://carmen.osu.edu/.
+If you have any question about the labs, homework, or grading, please come to my office or send me an email.
+
+If you are not free during my office hours, please send me an email with a list of your free time slots. You may want to take a look at my "calendar":/~fathi/calendar.html before sending me an email.
