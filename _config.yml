@@ -1,0 +1,4 @@
+name: My personal Page on CSE whebsite
+markdown: redcarpet
+pygments: true
+baseurl: /~fathi
